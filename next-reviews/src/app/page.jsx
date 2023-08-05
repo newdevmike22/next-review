@@ -1,5 +1,6 @@
 
 export default function Home() {
+  console.log('[HomePage] rendering');
   return (
     <>
       <h1>Indie Gamer</h1>
