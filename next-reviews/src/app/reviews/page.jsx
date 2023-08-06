@@ -11,7 +11,7 @@ export default function ReviewsPage() {
                 <img src="/images/hollow-knight.jpg" alt="hollow knight" 
                   width="320" height="180" className="rounded-t"
                 />
-                <h2 className='py-1 text-center'>
+                <h2 className='py-1 text-center font-orbitron font-semibold'>
                   Hollow Knight
                 </h2>
               </Link>
@@ -21,7 +21,7 @@ export default function ReviewsPage() {
                 <img src="/images/stardew-valley.jpg" alt="stardew valley" 
                   width="320" height="180" className="rounded-t" 
                 />
-                <h2 className='py-1 text-center'>
+                <h2 className='py-1 text-center font-orbitron font-semibold'>
                   Stardew Valley
                 </h2>
               </Link>

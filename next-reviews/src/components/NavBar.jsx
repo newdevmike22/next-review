@@ -5,9 +5,9 @@ export default function NavBar() {
         <nav>
         <ul className='flex gap-2'>
           <li>
-            <Link className='text-orange-800 hover:underline' href='/'>Home</Link>
+            <Link className='text-orange-800 hover:underline font-orbitron font-semibold' href='/'>Indie Gamer</Link>
           </li>
-          <li>
+          <li className='ml-auto'>
             <Link className='text-orange-800 hover:underline' href='/reviews'>Reviews</Link>
           </li>
           <li>
