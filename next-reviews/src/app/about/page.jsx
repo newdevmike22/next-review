@@ -1,8 +1,9 @@
+import Heading from "@/components/Heading";
 
 export default function About() {
     return (
       <>
-        <h1>About Indie Gamer</h1>
+        <Heading>About Indie Gamer</Heading>
         <p>
           Indie Gamer is the place for the best reviews.
         </p>
